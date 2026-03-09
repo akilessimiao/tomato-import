@@ -1,0 +1,9 @@
+tomate-importer/
+├── data/
+│   ├── input/          # ← Coloque seu PDF aqui
+│   ├── output/         # ← CSV gerado sai aqui
+│   └── categories.json # Mapeamento de categorias
+├── src/                # Código fonte modular
+├── config.py           # Configurações globais
+├── main.py             # Entry point
+└── README.md           # Este arquivo
