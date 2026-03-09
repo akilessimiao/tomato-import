@@ -1,0 +1,15 @@
+# Dependências principais
+pdfplumber>=0.10.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Utilitários
+requests>=2.31.0
+Pillow>=10.0.0
+tqdm>=4.66.0
+
+# Desenvolvimento
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
